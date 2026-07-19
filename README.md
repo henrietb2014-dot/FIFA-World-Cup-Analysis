@@ -218,10 +218,15 @@ FIFA-World-Cup-Performance-Analysis
  REPOSITORY CONTENT
  
 . Power BI Report (.pbix)
+
 . Analytical Portfolio (PDF)
+
 . Stakeholder Presentation
+
 . Data Dictionary
+
 . Dashboard Screenshots
+
 . README.md
 
 
