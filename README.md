@@ -94,6 +94,10 @@ Key Insights
 
 
 DASHBOARD PREVIEW
+1. [Image executive.png]
+2. [Image Performance.png]
+3. [Image trend.png]
+4. [Image Drill thru.png]
 
  
  
@@ -121,6 +125,28 @@ LinkedIn: https://.linkedin.com/in/ebokaiwe-oghale-909742243
 
  Acknowledgements
 This project was completed as part of a Data Analytics Capstone Project, demonstrating practical skills in data modeling, business intelligence, dashboard design, and interactive reporting.
+
+
+
+
+ Repository Structure
+
+
+FIFA-World-Cup-Performance-Analysis
+│
+├── README.md
+├── FIFA_World_Cup_Performance_Analysis.pbix
+├── Analytical Portfolio.pdf
+├── Stakeholder Presentation.pdf
+├── Data Dictionary.pdf
+├── images/
+│   ├── Executive_Overview.png
+│   ├── Country_Performance_Analysis.png
+│   ├── Tournament_Insights_Distribution.png
+│   └── Country_Drill_Through_Analysis.png
+
+
+
 
 
 
