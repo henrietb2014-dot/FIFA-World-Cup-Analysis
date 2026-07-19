@@ -37,6 +37,8 @@ PROJECT OBJECTIVES
 
 
 
+
+
  DATA MODEL
  
 The report follows a Star Schema consisting of:
@@ -56,6 +58,8 @@ The report follows a Star Schema consisting of:
 . Measures Table
 
 . Dashboard Pages
+
+
 
 
 
@@ -81,6 +85,8 @@ Provides a high-level summary of:
 
 
 
+
+
 2️. Country Performance Analysis
 
 Focuses on:
@@ -91,6 +97,8 @@ Focuses on:
 •	Win percentage
 •	Goal difference contribution
 •	Performance comparisons
+
+
 
 
 
@@ -112,6 +120,8 @@ Highlights:
 
 
 
+
+
 4️. Country Drill-Through Analysis
 
 Allows users to:
@@ -121,6 +131,8 @@ Allows users to:
 •	Navigate to a dedicated country details page
 
 •	View KPIs and performance trends for the selected country
+
+
 
 
 
@@ -146,6 +158,8 @@ KEY FEATURES
 
 
 
+
+
 KEY INSIGHTS
 
 •	Germany achieved the highest overall performance based on total points and wins.
@@ -162,6 +176,8 @@ KEY INSIGHTS
 
 
 
+
+
 DASHBOARD PREVIEW
 
 1. [Image executive.png]
@@ -171,6 +187,8 @@ DASHBOARD PREVIEW
 3. [Image trend.png]
    
 4. [Image Drill thru.png]
+
+
 
 
 
@@ -208,13 +226,17 @@ FIFA-World-Cup-Performance-Analysis
 
 
 
+
+
 AUTHOR
 
 - Ebokaiwe Henrietta Oghale
 
 - Aspiring Data Analyst passionate about transforming data into actionable insights through Business Intelligence, SQL, Excel, and Power BI.
-- 
+  
 - LinkedIn: https://.linkedin.com/in/ebokaiwe-oghale-909742243
+
+
 
 
 
