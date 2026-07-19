@@ -242,7 +242,7 @@ AUTHOR
 
  ACKNOWLEDGEMENT
  
-This project was completed as part of a Data Analytics Capstone Project, demonstrating practical skills in data modeling, business intelligence, dashboard design, and interactive reporting.
+This project was completed as part of my Data Analytics Capstone Project, demonstrating practical skills in data modeling, business intelligence, dashboard design, and interactive reporting.
 
 
 
