@@ -1,2 +1,128 @@
-# FIFA-World-Cup-Analysis
-Interactive Power BI dashboard analyzing FIFA World Cup performance using DAX, data modeling, drill-through, bookmarks and data storytelling.
+FIFA World Cup Performance Analysis Dashboard
+
+Project Overview
+
+This project is an interactive Power BI dashboard developed to analyze FIFA World Cup country performance across multiple tournament editions. The report provides insights into team performance, goal statistics, tournament trends, and country rankings using an interactive and user-friendly design.
+The project demonstrates end-to-end Business Intelligence skills, including data modelling, DAX calculations, data visualization, and dashboard storytelling.
+
+
+Project Objectives
+Analyze country performance across FIFA World Cup tournaments.
+Compare goals scored, goals conceded, and goal differences.
+Identify top-performing countries based on wins, points, and matches played.
+Track tournament performance over time.
+Enable interactive exploration using slicers, drill-through, and navigation buttons.
+
+
+ Tools Used
+Microsoft Power BI
+Power Query
+DAX (Data Analysis Expressions)
+Microsoft PowerPoint (Dashboard Design)
+
+
+ Data Model
+The report follows a Star Schema consisting of:
+Fact Table
+Fact_WorldCupResult
+Dimension Tables
+Dim_Country
+Dim_Date
+Measure Table
+Measures Table
+ Dashboard Pages
+
+1️. Executive Overview
+Provides a high-level summary of:
+•	Total Countries
+•	Total Games Played
+•	Total Goals Scored
+•	Total Points
+•	Total Wins
+•	Win Percentage
+•	Top-performing countries
+•	Tournament performance trends
+
+2️. Country Performance Analysis
+Focuses on:
+•	Country rankings
+•	Match performance
+•	Goal analysis
+•	Win percentage
+•	Goal difference contribution
+•	Performance comparisons
+
+3️. Tournament Insights & Distribution
+Highlights:
+•	Tournament editions
+•	Highest goals scored
+•	Most matches played
+•	Best winning percentage
+•	Match result distribution
+•	Tournament goal trends
+
+4️. Country Drill-Through Analysis
+Allows users to:
+•	Right-click a country from the main dashboards
+•	Navigate to a dedicated country details page
+•	View KPIs and performance trends for the selected country
+
+
+Key Features
+•	Interactive slicers
+•	Drill-through analysis
+•	Reset Filters button
+•	Page navigation buttons
+•	Dynamic KPI cards
+•	Cross-page filtering
+•	Interactive charts and visuals
+•	Accessible report with Alt Text
+
+
+Key Insights
+•	Germany achieved the highest overall performance based on total points and wins.
+•	Brazil consistently remained among the top-performing nations.
+•	Goal-scoring trends varied across tournament editions.
+•	Goal difference played a significant role in overall country rankings.
+
+
+
+
+
+
+
+DASHBOARD PREVIEW
+
+ 
+ 
+ 
+ 
+
+
+
+ Repository Contents
+Power BI Report (.pbix)
+Analytical Portfolio (PDF)
+Stakeholder Presentation
+Data Dictionary
+Dashboard Screenshots
+README.md
+
+
+
+Author
+Ebokaiwe Henrietta Oghale
+Aspiring Data Analyst passionate about transforming data into actionable insights through Business Intelligence, SQL, Excel, and Power BI.
+LinkedIn: https://.linkedin.com/in/ebokaiwe-oghale-909742243
+
+
+
+ Acknowledgements
+This project was completed as part of a Data Analytics Capstone Project, demonstrating practical skills in data modeling, business intelligence, dashboard design, and interactive reporting.
+
+
+
+
+
+
+
