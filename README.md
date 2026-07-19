@@ -2,8 +2,10 @@ FIFA World Cup Performance Analysis Dashboard
 
 Project Overview
 
+
 This project is an interactive Power BI dashboard developed to analyze FIFA World Cup country performance across multiple tournament editions. The report provides insights into team performance, goal statistics, tournament trends, and country rankings using an interactive and user-friendly design.
 The project demonstrates end-to-end Business Intelligence skills, including data modelling, DAX calculations, data visualization, and dashboard storytelling.
+
 
 
 Project Objectives
